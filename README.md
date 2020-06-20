@@ -1,1 +1,1 @@
-# Generator
+[![Build status](https://ci.appveyor.com/api/projects/status/31h65wdsg3qap16e?svg=true)](https://ci.appveyor.com/project/zvasileva/generator)
